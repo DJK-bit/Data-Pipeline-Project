@@ -1,0 +1,4 @@
+   name grade     city
+2  mike     X    Seoul
+2   tom     Z  Incheon
+4  anna     F    Seoul
